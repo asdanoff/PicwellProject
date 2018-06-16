@@ -14,11 +14,5 @@ During the household interviews, MEPS collects detailed information for each per
 The panel design of the survey, which features several rounds of interviewing covering two full calendar years, makes it possible to determine how changes in respondents' health status, income, employment, eligibility for public and private insurance coverage, use of services, and payment for care are related.
 
 
-##### Pandas
-Pandas is a powerful and widely-used python library for data manipulation and analysis.  There is extensive documentation and debugging support online.  You will use this extensively for this project.
-
-## Getting Started with Pandas and MEPS
-The raw data available on the MEPS website is rather cumbersome to work with (e.g. columns aren't labeled, and you determine field names and values by cross-referencing a codebook that changes year over year).  The first step will be getting familiar with the data and basic python data manipulation in the [data extraction notebook](./MEPSDataExtraction.ipynb).
-
-Once you have completed this exercise, you can move on to data analysis and visualization notebook [here](./PandasDataExploration.ipynb).
-# PicwellProject
+##### Picwell Project
+This project seeks to explore the impact of self-reported health on Total Expenditures. See the MEPSRandomForest and MEPSDataAnalysis notebooks for the most relevant work.
